@@ -64,7 +64,7 @@ To be able to work for an <b>encouraging and stable company</b> that will assist
 <td width="3%" valign="top">🔹</td>
 <td width="97%">
 
-**Jsk Group Ltd** &nbsp; <img src="https://img.shields.io/badge/Nov%202025%20--%20Present-6dd5ed?style=flat-square"/>
+**Jsk Group Ltd** &nbsp; <img src="https://img.shields.io/badge/October%202021%20--%20Present-6dd5ed?style=flat-square"/>
 
 | Project | Description |
 |---|---|
